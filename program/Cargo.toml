@@ -1,8 +1,10 @@
 [package]
 authors = ["vic <vic.xu.development@gmail.com>"]
 edition = "2018"
-name = "bito_program"
+name = "xprogram"
 version = "0.1.0"
+license = "MIT"
+description = "program for testing"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
